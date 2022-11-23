@@ -145,8 +145,8 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <CircularProgressbar
-                    value={percentage_3}
-                    text={`${percentage_3}%`}
+                    value={percentage_5}
+                    text={`${percentage_5}%`}
                     backgroundPadding={6}
                     styles={buildStyles({
                       backgroundColor: "#151515",
@@ -159,8 +159,8 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <CircularProgressbar
-                    value={percentage_3}
-                    text={`${percentage_3}%`}
+                    value={percentage_5}
+                    text={`${percentage_5}%`}
                     backgroundPadding={6}
                     styles={buildStyles({
                       backgroundColor: "#151515",

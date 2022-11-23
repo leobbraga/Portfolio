@@ -8,6 +8,7 @@ import project4 from "../assets/img/Face_pag.png"
 import project5 from "../assets/img/Rps_Game.png"
 import project6 from "../assets/img/Dog_manag.png"
 import project7 from "../assets/img/Weather_IMG.png"
+import project8 from "../assets/img/Project_Crud.png"
 
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -54,9 +55,9 @@ export const Projects = () => {
       imgUrl: project7,
     },
     {
-      title: <a href="">Vilefood</a>,
-      description: "A website to buy food with sql, reactjs and Java *In development*",
-      imgUrl: ComingSoonImg,
+      title: <a href="">CRUDdev</a>,
+      description: "A crud to with MySql, Reactjs and SpringBoot",
+      imgUrl: project8,
     },
     {
       title: <a href="https://github.com/leobbraga/VileBank">VileBank</a>,
@@ -69,8 +70,8 @@ export const Projects = () => {
       imgUrl: ComingSoonImg,
     },
     {
-      title: "Thinking...",
-      description: "Thinking...",
+      title: <a href="">Vilefood</a>,
+      description: "A website to buy food with sql, reactjs and Java *In development*",
       imgUrl: ComingSoonImg,
     },
     {
